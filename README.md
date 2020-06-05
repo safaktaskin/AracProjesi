@@ -12,13 +12,13 @@
     3.5 Scooter       :  Tek Silindirli 2 Zamanlı Benzinli Motor veya Tek Silindirli 4 zamanlı Benzinli Motorları olabilir.
 
 Her motor; 
-    Silindir sayısı [sadece 1/2/4/6/12] 
-    Zaman [yalnızca 2/4]. 
-    "Motor Numarası" her zaman 6 alfasayısal karakterdir.
+*    Silindir sayısı [sadece 1/2/4/6/12] 
+*    Zaman [yalnızca 2/4]. 
+*    "Motor Numarası" her zaman 6 alfasayısal karakterdir.
     
-Dizel motor her zaman 4 zamanlı olarak gelir ancak Benzinli motor 2 zamanlı veya 4 zamanlı olabilir.
-Sadece Benzinli motorlarda bujiler vardır [Silindir başına bir]. Dizel Motorda bujiler olamaz.
-Buji sadece sıra numarasına sahiptir [örneğin 6 Silindirli Motorlu Otomobilde bujiler SP1, SP2, SP3, SP4, SP5, SP6 olacaktır]
-Sadece Kamyon ve Otomobillerde Yağ Pompası
-Her Yağ pompasının Kimlik numarası 6 karakterlik alfasayısal karakterdir. 
-Her Yağ pompasının Saniyede santimetre küp (cc) cinsinden kapasite [değer 1-5 arasında olabilir] 
+* *Dizel motor her zaman 4 zamanlı olarak gelir ancak Benzinli motor 2 zamanlı veya 4 zamanlı olabilir.
+* *Sadece Benzinli motorlarda bujiler vardır [Silindir başına bir]. Dizel Motorda bujiler olamaz.
+* *Buji sadece sıra numarasına sahiptir [örneğin 6 Silindirli Motorlu Otomobilde bujiler SP1, SP2, SP3, SP4, SP5, SP6 olacaktır]
+* *Sadece Kamyon ve Otomobillerde Yağ Pompası
+* *Her Yağ pompasının Kimlik numarası 6 karakterlik alfasayısal karakterdir. 
+* *Her Yağ pompasının Saniyede santimetre küp (cc) cinsinden kapasite [değer 1-5 arasında olabilir] 
