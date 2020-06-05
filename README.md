@@ -18,12 +18,12 @@
 
 **3.5 Scooter**       :  Tek Silindirli 2 Zamanlı Benzinli Motor veya Tek Silindirli 4 zamanlı Benzinli Motorları olabilir.
 
-```
+
 ** Her motor **; 
 *    Silindir sayısı [sadece 1/2/4/6/12] 
 *    Zaman [yalnızca 2/4]. 
 *    "Motor Numarası" her zaman 6 alfasayısal karakterdir.
-```
+
 
 * Dizel motor her zaman 4 zamanlı olarak gelir ancak Benzinli motor 2 zamanlı veya 4 zamanlı olabilir.
 * Sadece Benzinli motorlarda bujiler vardır [Silindir başına bir]. Dizel Motorda bujiler olamaz.
